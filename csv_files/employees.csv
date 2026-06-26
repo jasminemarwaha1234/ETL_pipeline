@@ -1,0 +1,51 @@
+employee_id,first_name,last_name,department_id,job_title,salary,hire_date,status,manager_id,email
+EMP001,Cynthia,Wilson,1,Senior Engineer,106205.02,2015-04-13,Terminated,,emp1@company.com
+EMP002,Cynthia,Thompson,1,Software Engineer,141096.79,2022-08-03,Active,,emp2@company.com
+EMP003,Robert,Davis,1,QA Engineer,142191.78,2016-01-19,On Leave,,emp3@company.com
+EMP004,Anthony,Thompson,2,SEO Specialist,75430.84,2023-01-11,On Leave,,emp4@company.com
+EMP005,Donald,Garcia,3,Business Dev Rep,83921.29,2015-01-27,Active,,emp5@company.com
+EMP006,Sarah,Williams,2,SEO Specialist,66770.15,2018-10-10,Active,,emp6@company.com
+EMP007,Kathleen,Johnson,5,Controller,110579.39,2017-12-19,Active,,emp7@company.com
+EMP008,Ashley,Lopez,1,Staff Engineer,139848.45,2021-03-11,Terminated,,emp8@company.com
+EMP009,Sharon,Davis,1,Staff Engineer,178596.04,2015-07-07,Active,,emp9@company.com
+EMP010,William,Moore,1,Staff Engineer,100452.14,2019-04-06,Active,,emp10@company.com
+EMP011,William,Williams,2,Marketing Director,104448.48,2022-07-08,On Leave,EMP004,emp11@company.com
+EMP012,Thomas,Wilson,2,Marketing Director,75373.06,2020-03-08,Active,EMP001,emp12@company.com
+EMP013,Kathleen,Anderson,2,SEO Specialist,78741.86,2015-05-12,Active,EMP010,emp13@company.com
+EMP014,Anthony,Martin,3,Business Dev Rep,130198.07,2017-05-20,Terminated,EMP008,emp14@company.com
+EMP015,Michael,Davis,2,Marketing Director,97728.41,2017-12-20,Terminated,EMP010,emp15@company.com
+EMP016,Thomas,Taylor,4,Recruiter,109839.55,2021-07-18,Active,EMP009,emp16@company.com
+EMP017,Donald,Johnson,4,HR Coordinator,59170.48,2016-01-08,Active,EMP007,emp17@company.com
+EMP018,Thomas,Thomas,5,CFO,149670.32,2015-09-18,On Leave,EMP005,emp18@company.com
+EMP019,Sharon,Brown,5,CFO,128824.61,2015-02-17,Terminated,EMP006,emp19@company.com
+EMP020,Melissa,Garcia,1,Engineering Manager,85308.31,2018-04-17,Terminated,EMP005,emp20@company.com
+EMP021,Daniel,Brown,5,Finance Manager,136541.89,2017-01-01,On Leave,EMP010,emp21@company.com
+EMP022,Amanda,Garcia,2,Marketing Director,126744.98,2016-09-18,On Leave,EMP001,emp22@company.com
+EMP023,Stephanie,Smith,5,Financial Analyst,143973.38,2018-08-20,Active,EMP004,emp23@company.com
+EMP024,Paul,White,1,Software Engineer,93137.08,2017-09-13,Active,EMP002,emp24@company.com
+EMP025,Michael,Martin,5,CFO,79035.79,2016-05-30,On Leave,EMP010,emp25@company.com
+EMP026,Angela,Thompson,4,Recruiter,92776.94,2017-05-17,Active,EMP006,emp26@company.com
+EMP027,Charles,Brown,4,Recruiter,63481.84,2020-10-20,Active,EMP001,emp27@company.com
+EMP028,Jessica,White,5,Accountant,65611.22,2021-03-18,Terminated,EMP001,emp28@company.com
+EMP029,Paul,Johnson,2,Brand Manager,64960.01,2015-10-04,Active,EMP005,emp29@company.com
+EMP030,Rebecca,Jones,4,CHRO,84572.7,2017-05-27,Active,EMP008,emp30@company.com
+EMP031,Sarah,Brown,4,HR Business Partner,71257.85,2017-02-18,Active,EMP008,emp31@company.com
+EMP032,Anthony,Brown,1,Software Engineer,123249.02,2022-07-21,Active,EMP002,emp32@company.com
+EMP033,Robert,Thompson,2,SEO Specialist,69812.76,2017-02-23,Active,EMP005,emp33@company.com
+EMP034,Amy,Williams,4,HR Business Partner,98481.33,2017-10-20,On Leave,EMP002,emp34@company.com
+EMP035,Rebecca,Smith,1,Software Engineer,173004.86,2022-04-25,Active,EMP003,emp35@company.com
+EMP036,Stephanie,Miller,4,HR Business Partner,104146.57,2020-06-12,Active,EMP007,emp36@company.com
+EMP037,William,Moore,1,Staff Engineer,125185.71,2019-05-19,Terminated,EMP009,emp37@company.com
+EMP038,Robert,Martinez,4,Recruiter,108122.56,2016-09-26,On Leave,EMP009,emp38@company.com
+EMP039,Maria,Johnson,1,QA Engineer,130294.91,2018-07-08,On Leave,EMP003,emp39@company.com
+EMP040,David,Garcia,1,Software Engineer,141528.34,2020-09-11,Terminated,EMP004,emp40@company.com
+EMP041,Paul,White,4,Recruiter,84735.14,2016-05-06,Active,EMP010,emp41@company.com
+EMP042,Sharon,White,1,QA Engineer,134664.36,2019-09-14,Active,EMP004,emp42@company.com
+EMP043,William,Thomas,3,Account Executive,112093.67,2017-09-04,Active,EMP008,emp43@company.com
+EMP044,James,Moore,3,VP of Sales,139868.63,2015-10-25,Active,EMP002,emp44@company.com
+EMP045,Daniel,Wilson,5,Accountant,144327.05,2017-05-23,Active,EMP004,emp45@company.com
+EMP046,Emily,Moore,3,VP of Sales,114800.89,2018-03-13,On Leave,EMP009,emp46@company.com
+EMP047,Steven,Thompson,1,Staff Engineer,173516.82,2022-06-28,Active,EMP003,emp47@company.com
+EMP048,Paul,Brown,3,VP of Sales,68213.07,2016-04-17,Active,EMP010,emp48@company.com
+EMP049,John,Miller,2,Brand Manager,95378.63,2023-01-18,Active,EMP001,emp49@company.com
+EMP050,Melissa,Wilson,1,Software Engineer,85336.84,2022-02-11,Active,EMP005,emp50@company.com
